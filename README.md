@@ -1,1 +1,1 @@
-# Calory-Calculation
+First, I turned your picture gray. I created a training kit with the photos I took. I wanted to apply this training set on my picture with reduced noise. In this way I could find objects. But I got unwanted results due to insufficient photos and inappropriate environment. At this point, I chose the way of filtering as you explained in the last lesson. I would select the objects according to the color density and calculate their calories.
